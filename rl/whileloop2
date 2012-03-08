@@ -1,0 +1,28 @@
+#!/bin/ksh
+LOG_FILES_DIR=./oldtapelogs
+TEMP_FILE_DIR=./summary
+NewTimeStamp=$(date "+Y%yM%mD%d_h%Hm%M")
+TEMP_FILE_NAME=templog_"$NewTimeStamp".txt
+integer DAYS=1
+integer DAYS_MAX=30
+IntmediateFile="try.txt"
+if [[ -n $(find ${LOG_FILES_DIR} -name "*tapelogg*") ]]
+then
+echo ""
+echo "Files found in folder: ${LOG_FILES_DIR}"
+fi
+#
+echo ""
+echo "Finish running 'IF' command."
+echo ""
+#
+while [[ (-n $(find ${LOG_FILES_DIR} -name "*tapelogg*" -mtime +${DAYS} -type f -print)) && ($DAYS -le $DAYS_MAX) ]]
+do
+echo "Files from the last $DAYS days will be written to tape file." \ >> ${TEMP_FILE_DIR}/${TEMP_FILE_NAME}
+find ${TEMP_FILE_DIR} -name "*tapelogg*" -mtime -${DAYS} -type f -print | sort -u >> ${TEMP_FILE_DIR}/${TEMP_FILE_NAME}
+((DAYS+=1))
+done
+#DAYS=1
+#find ${TEMP_FILE_DIR} -name "*tapelogg*" -mtime -${DAYS} -type f -print | sort -u >> ${TEMP_FILE_DIR}/${TEMP_FILE_NAME}
+#find ${TEMP_FILE_DIR} -name "*tapelogg*" -mtime +${DAYS} -type f | xargs ls -l | sort -u > ./result
+#xargs ls ${TEMP_FILE_DIR} | sort -u >> ${TEMP_FILE_DIR}/${TEMP_FILE_NAME}

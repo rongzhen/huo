@@ -1,0 +1,124 @@
+--- oldtapelogs/tapelogg_1202071000.txt	2012-02-17 03:56:54.000000000 +0100
++++ oldtapelogs/tapelogg_1202081000.txt	2012-02-17 03:56:44.000000000 +0100
+@@ -1,67 +1,66 @@
+ 
+ Files from the last 1 days will be written to tape.
+ 
+-Number of files to be written to the tape is: 52
++Number of files to be written to the tape is: 51
+ 
+-Number of Mbytes to be written to the tape is: 10689 (eq to 11208381958 bytes)
++Number of Mbytes to be written to the tape is: 8455 (eq to 8865559017 bytes)
+ 
+-Started writing to tape at: 12020710:03
++Started writing to tape at: 12020810:02
+ 
+ Files written to tape listed by the pax-command:
+-/home3/albackup/alf131/ALF131_backup_2012-02-06_incr.zip
+-/home3/albackup/alf101/ALF101_backup_2012-02-06_incr.zip
+-/home3/albackup/alf127/ALF127_backup_2012-02-06_incr.zip
+-/home3/albackup/alf102/ALF102_backup_2012-02-06_incr.zip
+-/home3/albackup/alf132/ALF132_backup_2012-02-06_incr.zip
+-/home3/albackup/alf121/ALF121_backup_2012-02-06_incr.zip
+-/home3/albackup/alf134/ALF134_backup_2012-02-06_incr.zip
+-/home3/albackup/alf130/ALF130_backup_2012-02-06_incr.zip
+-/home3/albackup/alf118/ALF118_backup_2012-02-06_incr.zip
+-/home3/albackup/alf133/ALF133_backup_2012-02-06_incr.zip
+-/home3/albackup/alf115/ALF115_backup_2012-02-06_incr.zip
+-/home3/albackup/space05/SPACE05_backup_2012-02-06_incr.zip
+-/home3/albackup/alf142/ALF142_backup_2012-02-06_incr.zip
+-/home3/albackup/alf143/ALF143_backup_2012-02-06_incr.zip
+-/home3/albackup/alf152/ALF152_backup_2012-02-06_incr.zip
+-/home3/albackup/alf161/ALF161_backup_2012-02-07_incr.zip
+-/home3/albackup/alf162/ALF162_backup_2012-02-07_incr.zip
+-/home3/albackup/alf169/ALF169_backup_2012-02-07_incr.zip
+-/home3/albackup/alf170/ALF170_backup_2012-02-07_incr.zip
+-/home3/albackup/alf167/ALF167_backup_2012-02-07_incr.zip
+-/home3/albackup/alf168/ALF168_backup_2012-02-07_incr.zip
+-/home3/albackup/alf176/ALF176_backup_2012-02-07_incr.zip
+-/home3/albackup/alf175/ALF175_backup_2012-02-07_incr.zip
+-/home3/albackup/alf177/ALF177_backup_2012-02-07_incr.zip
+-/home3/albackup/alf178/ALF178_backup_2012-02-07_incr.zip
+-/home3/albackup/alf181/ALF181_backup_2012-02-07_incr.zip
+-/home3/albackup/alf180/ALF180_backup_2012-02-07_incr.zip
+-/home3/albackup/alf179/ALF179_backup_2012-02-07_incr.zip
+-/home3/albackup/alf185/ALF185_backup_2012-02-07_incr.zip
+-/home3/albackup/alf184/ALF184_backup_2012-02-07_incr.zip
+-/home3/albackup/alf188/ALF188_backup_2012-02-07_incr.zip
+-/home3/albackup/alf189/ALF189_backup_2012-02-07_incr.zip
+-/home3/albackup/alf191/ALF191_backup_2012-02-07_incr.zip
+-/home3/albackup/alf192/ALF192_backup_2012-02-07_incr.zip
+-/home3/albackup/alf113/ALF113_backup_2012-02-06_incr.zip
+-/home3/albackup/alf190/ALF190_backup_2012-02-07_incr.zip
+-/home3/albackup/alf193/ALF193_backup_2012-02-07_incr.zip
+-/home3/albackup/alf197/ALF197_backup_2012-02-07_incr.zip
+-/home3/albackup/alf199/ALF199_backup_2012-02-07_incr.zip
+-/home3/albackup/alf202/ALF202_backup_2012-02-07_incr.zip
+-/home3/albackup/alf198/ALF198_backup_2012-02-07_incr.zip
+-/home3/albackup/alf209/ALF209_backup_2012-02-07_incr.zip
+-/home3/albackup/alf210/ALF210_backup_2012-02-07_incr.zip
+-/home3/albackup/alf208/ALF208_backup_2012-02-07_incr.zip
+-/home3/albackup/alf207/ALF207_backup_2012-02-07_incr.zip
+-/home3/albackup/alf200/ALF200_backup_2012-02-07_incr.zip
+-/home3/albackup/alf217/ALF217_backup_2012-02-07_incr.zip
+-/home3/albackup/alf218/ALF218_backup_2012-02-07_incr.zip
+-/home3/albackup/alf211/ALF211_backup_2012-02-07_incr.zip
+-/home3/albackup/alf221/ALF221_backup_2012-02-07_incr.zip
+-/home3/albackup/tapelogg_1202061000.txt
++/home3/albackup/alf131/ALF131_backup_2012-02-07_incr.zip
++/home3/albackup/alf101/ALF101_backup_2012-02-07_incr.zip
++/home3/albackup/alf127/ALF127_backup_2012-02-07_incr.zip
++/home3/albackup/alf102/ALF102_backup_2012-02-07_incr.zip
++/home3/albackup/alf132/ALF132_backup_2012-02-07_incr.zip
++/home3/albackup/alf121/ALF121_backup_2012-02-07_incr.zip
++/home3/albackup/alf134/ALF134_backup_2012-02-07_incr.zip
++/home3/albackup/alf130/ALF130_backup_2012-02-07_incr.zip
++/home3/albackup/alf118/ALF118_backup_2012-02-07_incr.zip
++/home3/albackup/alf133/ALF133_backup_2012-02-07_incr.zip
++/home3/albackup/alf115/ALF115_backup_2012-02-07_incr.zip
++/home3/albackup/space05/SPACE05_backup_2012-02-07_incr.zip
++/home3/albackup/alf142/ALF142_backup_2012-02-07_incr.zip
++/home3/albackup/alf143/ALF143_backup_2012-02-07_incr.zip
++/home3/albackup/alf152/ALF152_backup_2012-02-07_incr.zip
++/home3/albackup/alf161/ALF161_backup_2012-02-08_incr.zip
++/home3/albackup/alf162/ALF162_backup_2012-02-08_incr.zip
++/home3/albackup/alf169/ALF169_backup_2012-02-08_incr.zip
++/home3/albackup/alf170/ALF170_backup_2012-02-08_incr.zip
++/home3/albackup/alf167/ALF167_backup_2012-02-08_incr.zip
++/home3/albackup/alf168/ALF168_backup_2012-02-08_incr.zip
++/home3/albackup/alf176/ALF176_backup_2012-02-08_incr.zip
++/home3/albackup/alf175/ALF175_backup_2012-02-08_incr.zip
++/home3/albackup/alf177/ALF177_backup_2012-02-08_incr.zip
++/home3/albackup/alf178/ALF178_backup_2012-02-08_incr.zip
++/home3/albackup/alf181/ALF181_backup_2012-02-08_incr.zip
++/home3/albackup/alf180/ALF180_backup_2012-02-08_incr.zip
++/home3/albackup/alf179/ALF179_backup_2012-02-08_incr.zip
++/home3/albackup/alf185/ALF185_backup_2012-02-08_incr.zip
++/home3/albackup/alf184/ALF184_backup_2012-02-08_incr.zip
++/home3/albackup/alf188/ALF188_backup_2012-02-08_incr.zip
++/home3/albackup/alf189/ALF189_backup_2012-02-08_incr.zip
++/home3/albackup/alf191/ALF191_backup_2012-02-08_incr.zip
++/home3/albackup/alf113/ALF113_backup_2012-02-07_incr.zip
++/home3/albackup/alf190/ALF190_backup_2012-02-08_incr.zip
++/home3/albackup/alf193/ALF193_backup_2012-02-08_incr.zip
++/home3/albackup/alf197/ALF197_backup_2012-02-08_incr.zip
++/home3/albackup/alf199/ALF199_backup_2012-02-08_incr.zip
++/home3/albackup/alf202/ALF202_backup_2012-02-08_incr.zip
++/home3/albackup/alf198/ALF198_backup_2012-02-08_incr.zip
++/home3/albackup/alf209/ALF209_backup_2012-02-08_incr.zip
++/home3/albackup/alf210/ALF210_backup_2012-02-08_incr.zip
++/home3/albackup/alf208/ALF208_backup_2012-02-08_incr.zip
++/home3/albackup/alf207/ALF207_backup_2012-02-08_incr.zip
++/home3/albackup/alf200/ALF200_backup_2012-02-08_incr.zip
++/home3/albackup/alf217/ALF217_backup_2012-02-08_incr.zip
++/home3/albackup/alf218/ALF218_backup_2012-02-08_incr.zip
++/home3/albackup/alf211/ALF211_backup_2012-02-08_incr.zip
++/home3/albackup/alf221/ALF221_backup_2012-02-08_incr.zip
+ /home3/albackup/tapelogg_1202071000.txt
++/home3/albackup/tapelogg_1202081000.txt
+ 
+-Finished writing to tape at: 12020710:15
++Finished writing to tape at: 12020810:11
+ 
+ Removing the following old files:
+ Usage: rm [-Rfir] file ...

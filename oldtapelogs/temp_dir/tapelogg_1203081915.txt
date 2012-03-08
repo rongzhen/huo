@@ -1,0 +1,32 @@
+Files is written to the tape from the 2012/03/06/19:15.
+
+Number of files to be written to the tape is: 51
+
+Number of Mbytes to be written to the tape is: 8461.82 (eq to 8.87286e+09 bytes) 
+
+size (byte) 		  backup computer
+
+
+9		albackup/alf133/ALF133_backup_2012-02-10_incr.zip
+5		albackup/alf189/ALF189_backup_2012-02-11_incr.zip
+1		albackup/alf190/ALF190_backup_2012-02-11_incr.zip
+3		albackup/alf170/ALF170_backup_2012-02-11_incr.zip
+8		albackup/alf169/ALF169_backup_2012-02-11_incr.zip
+0		albackup/alf191/ALF191_backup_2012-02-11_incr.zip
+2		albackup/alf211/ALF211_backup_2012-02-11_incr.zip
+1		albackup/alf122/ALF122_backup_2012-02-10_incr.zip
+3		albackup/alf202/ALF202_backup_2012-02-11_incr.zip
+3		albackup/alf210/ALF210_backup_2012-02-11_incr.zip
+0		albackup/alf152/ALF152_backup_2012-02-10_incr.zip
+1711017		albackup/alf115/ALF115_backup_2012-02-10_incr.zip
+178254		albackup/alf131/ALF131_backup_2012-02-10_incr.zip
+181587		albackup/alf167/ALF167_backup_2012-02-11_incr.zip
+31		albackup/alf118/ALF118_backup_2012-02-10_incr.zip
+20844527		albackup/alf143/ALF143_backup_2012-02-10_incr.zip
+221318014		albackup/alf132/ALF132_backup_2012-02-10_incr.zip
+2480904007		albackup/alf127/ALF127_backup_2012-02-10_incr.zip
+252		albackup/alf162/ALF162_backup_2012-02-11_incr.zip
+25377269		albackup/alf207/ALF207_backup_2012-02-11_incr.zip
+32		albackup/alf199/ALF199_backup_2012-02-11_incr.zip
+27394		albackup/alf200/ALF200_backup_2012-02-11_incr.zip
+280962		albackup/alf179/ALF179_backup_2012-02-11_incr.zip

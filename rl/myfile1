@@ -1,0 +1,7 @@
+main（ ）
+　　{
+　　float a,b, i, j ,z ;
+　　a=i=10 ; b=j=5 ;
+　　z= i + j ;
+　　printf（“z=%d\\n”,z） ;
+　　}

@@ -1,0 +1,8 @@
+#include< stdio.h >
+　　main（ ）
+　　{
+　　float i, j ,z ;
+　　i=10 ; j=5 ;
+　　z= i + j ;
+　　printf（“z=%f\\n”,z） ;
+　　}

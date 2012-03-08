@@ -1,0 +1,13 @@
+total 41
+drwxrwxrwx 2 liangr  30000 2048 Feb 21 18:07 dirfiles
+drwxrwxrwx 2 liangr  30000 2048 Feb 21 18:07 oldtapelogs
+-rw-rw-rw- 1 liangr users2 6240 Feb 23 20:31 hw1_code.ksh~
+-rwxrw-rw- 1 liangr  30000 5965 Feb 23 20:31 hw1_code.ksh
+-rw-rw-rw- 1 liangr users2 3869 Feb 24 10:12 hw1_code_ex.ksh~
+-rwxrw-rw- 1 liangr  30000 3869 Feb 24 10:12 hw1_code_ex.ksh
+-rw------- 1 liangr users2 4437 Feb 24 13:50 hw1_test.ksh~
+-rwx------ 1 liangr users2 4436 Feb 24 13:50 hw1_test.ksh
+-rw------- 1 liangr users2  795 Feb 24 15:17 whileloop2~
+-rwx------ 1 liangr users2  797 Feb 24 15:19 whileloop2
+drwxrwxrwx 2 liangr  30000 4096 Feb 24 15:20 summary
+-rw------- 1 liangr users2    0 Feb 24 15:20 result
